@@ -1,6 +1,6 @@
 # ani_sculpt
 
-Work in progress
+[Demo here!](https://vimeo.com/manage/videos/840950017)
 
 ## Table of Contents
 
